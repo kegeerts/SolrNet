@@ -1,5 +1,5 @@
 # Faceting
-
+This is test documentation
 SolrNet supports [faceted searching](https://cwiki.apache.org/confluence/display/solr/Faceting).
 this is new documentation
 There are basically three kinds of facet queries:
